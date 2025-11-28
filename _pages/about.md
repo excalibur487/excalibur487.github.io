@@ -13,7 +13,7 @@ Research
 ======
 In Summer 2025, I was an undergraduate research assistant in the Computer Architecture and Security Lab at Northwestern University. There, I built tooling to evaluate commercial quantum devices using an information-per-dollar metric.
 
-Before that, I completed an independent study in communication complexity at NC State streaming models and sketching algorithms, and implementing them in C.
+Before that, I completed an independent study in communication complexity at NC State where I studied streaming models and sketching algorithms, and implementing them in C.
 
 Teaching
 ======
